@@ -1,5 +1,15 @@
 detectors:
   IrresponsibleModule:
     enabled: false
+directories:
+  'lib/models':
+    NestedIterators:
+      max_allowed_nesting: 2
+    UnusedPrivateMethod:
+      enabled: false
+    InstanceVariableAssumption:
+      enabled: false
+    TooManyInstanceVariables:
+      enabled: false
 exclude_paths:
   - db
