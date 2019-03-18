@@ -7,7 +7,7 @@ class RemoteCampaign < ModelBase
     end
 
     def all
-      @all ||= []
+      @all ||= LoadRemoteCampaigns.call
     end
   end
 

@@ -1,0 +1,6 @@
+require './lib/models/model_base.rb'
+require './lib/models/campaign.rb'
+require './lib/models/remote_campaign.rb'
+require './lib/services/service_base.rb'
+require './lib/services/remote_json_data.rb'
+require './lib/services/load_remote_campaigns.rb'
