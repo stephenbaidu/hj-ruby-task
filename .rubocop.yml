@@ -2,3 +2,9 @@ AllCops:
   TargetRubyVersion: 2.6
   Exclude:
     - 'spec/spec_helper.rb'
+
+Style/Documentation:
+  Enabled: false
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
