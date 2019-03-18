@@ -55,6 +55,7 @@ GEM
       ruby-progressbar (~> 1.7)
       unicode-display_width (~> 1.4.0)
     ruby-progressbar (1.10.0)
+    sqlite3 (1.4.0)
     thin (1.7.2)
       daemons (~> 1.0, >= 1.0.9)
       eventmachine (~> 1.0, >= 1.0.4)
@@ -74,6 +75,7 @@ DEPENDENCIES
   reek
   rspec
   rubocop
+  sqlite3
   thin
 
 RUBY VERSION
