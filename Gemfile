@@ -6,3 +6,4 @@ ruby '2.6.2'
 
 gem 'rspec'
 gem 'rubocop'
+gem 'reek'
