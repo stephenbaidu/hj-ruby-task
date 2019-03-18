@@ -1,7 +1,9 @@
+require_relative 'load.rb'
 require 'json'
 
 class App
   def self.call(_env)
-    JSON.generate([{ test: 'Test' }])
+    result = DetectDiscrepancies.call
+    JSON.generate(result)
   end
 end
