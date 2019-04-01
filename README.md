@@ -1,3 +1,6 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/defdf212f9e8a42e6985/maintainability)](https://codeclimate.com/github/stephenbaidu/hj-ruby-task/maintainability)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fc65bad0efb34c76999d9de6cb78ba81)](https://www.codacy.com/app/stephenbaidu/hj-ruby-task?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=stephenbaidu/hj-ruby-task&amp;utm_campaign=Badge_Grade)
+
 # Ruby Task
 The application comes with a sqlite3 database, which is already seeded with some data
 
