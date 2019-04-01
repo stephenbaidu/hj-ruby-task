@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/stephenbaidu/hj-ruby-task.svg?branch=master)](https://travis-ci.com/stephenbaidu/hj-ruby-task)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/defdf212f9e8a42e6985/test_coverage)](https://codeclimate.com/github/stephenbaidu/hj-ruby-task/test_coverage)
 [![Maintainability](https://api.codeclimate.com/v1/badges/defdf212f9e8a42e6985/maintainability)](https://codeclimate.com/github/stephenbaidu/hj-ruby-task/maintainability)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/fc65bad0efb34c76999d9de6cb78ba81)](https://www.codacy.com/app/stephenbaidu/hj-ruby-task?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=stephenbaidu/hj-ruby-task&amp;utm_campaign=Badge_Grade)
 

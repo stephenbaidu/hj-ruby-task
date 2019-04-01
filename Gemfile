@@ -9,3 +9,5 @@ gem 'rspec'
 gem 'rubocop'
 gem 'sqlite3'
 gem 'thin'
+
+gem 'simplecov', require: false, group: :test
